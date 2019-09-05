@@ -1,0 +1,11 @@
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp2.2\Assignment_1.deps.json
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp2.2\Assignment_1.runtimeconfig.json
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp2.2\Assignment_1.runtimeconfig.dev.json
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp2.2\Assignment_1.dll
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp2.2\Assignment_1.pdb
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.csprojAssemblyReference.cache
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.AssemblyInfoInputs.cache
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.AssemblyInfo.cs
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.dll
+C:\Users\ja3g3\OneDrive\Documents\Code Repositories\WTAMU\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp2.2\Assignment_1.pdb
