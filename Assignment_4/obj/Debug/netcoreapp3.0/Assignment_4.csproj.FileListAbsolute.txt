@@ -9,3 +9,14 @@ C:\Users\Matthew Webb\Documents\Code Repositories\CIDM_4360_FA2019\Assignment_4\
 C:\Users\Matthew Webb\Documents\Code Repositories\CIDM_4360_FA2019\Assignment_4\obj\Debug\netcoreapp3.0\Assignment_4.AssemblyInfo.cs
 C:\Users\Matthew Webb\Documents\Code Repositories\CIDM_4360_FA2019\Assignment_4\obj\Debug\netcoreapp3.0\Assignment_4.dll
 C:\Users\Matthew Webb\Documents\Code Repositories\CIDM_4360_FA2019\Assignment_4\obj\Debug\netcoreapp3.0\Assignment_4.pdb
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\obj\Debug\netcoreapp3.0\Assignment_4.csprojAssemblyReference.cache
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\obj\Debug\netcoreapp3.0\Assignment_4.AssemblyInfoInputs.cache
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\obj\Debug\netcoreapp3.0\Assignment_4.AssemblyInfo.cs
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\obj\Debug\netcoreapp3.0\Assignment_4.dll
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\obj\Debug\netcoreapp3.0\Assignment_4.pdb
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\bin\Debug\netcoreapp3.0\Assignment_4.exe
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\bin\Debug\netcoreapp3.0\Assignment_4.deps.json
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\bin\Debug\netcoreapp3.0\Assignment_4.runtimeconfig.json
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\bin\Debug\netcoreapp3.0\Assignment_4.runtimeconfig.dev.json
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\bin\Debug\netcoreapp3.0\Assignment_4.dll
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_4\bin\Debug\netcoreapp3.0\Assignment_4.pdb

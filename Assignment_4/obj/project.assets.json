@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Matthew Webb\\.nuget\\packages\\": {}
+    "C:\\Users\\ja3g3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matthew Webb\\Documents\\Code Repositories\\CIDM_4360_FA2019\\Assignment_4\\Assignment_4.csproj",
+      "projectUniqueName": "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_4\\Assignment_4.csproj",
       "projectName": "Assignment_4",
-      "projectPath": "C:\\Users\\Matthew Webb\\Documents\\Code Repositories\\CIDM_4360_FA2019\\Assignment_4\\Assignment_4.csproj",
-      "packagesPath": "C:\\Users\\Matthew Webb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matthew Webb\\Documents\\Code Repositories\\CIDM_4360_FA2019\\Assignment_4\\obj\\",
+      "projectPath": "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_4\\Assignment_4.csproj",
+      "packagesPath": "C:\\Users\\ja3g3\\.nuget\\packages\\",
+      "outputPath": "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Matthew Webb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ja3g3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
