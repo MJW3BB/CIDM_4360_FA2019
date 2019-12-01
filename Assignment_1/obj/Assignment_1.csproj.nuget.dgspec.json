@@ -1,32 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ja3g3\\OneDrive\\Documents\\Code Repositories\\WTAMU\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj": {}
+    "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ja3g3\\OneDrive\\Documents\\Code Repositories\\WTAMU\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj": {
+    "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ja3g3\\OneDrive\\Documents\\Code Repositories\\WTAMU\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj",
+        "projectUniqueName": "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj",
         "projectName": "Assignment_1",
-        "projectPath": "C:\\Users\\ja3g3\\OneDrive\\Documents\\Code Repositories\\WTAMU\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj",
+        "projectPath": "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj",
         "packagesPath": "C:\\Users\\ja3g3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ja3g3\\OneDrive\\Documents\\Code Repositories\\WTAMU\\CIDM_4360_FA2019\\Assignment_1\\obj\\",
+        "outputPath": "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\ja3g3\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -37,20 +34,23 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.0": {
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

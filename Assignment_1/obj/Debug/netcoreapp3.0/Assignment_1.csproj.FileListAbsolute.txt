@@ -1,0 +1,11 @@
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp3.0\Assignment_1.exe
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp3.0\Assignment_1.deps.json
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp3.0\Assignment_1.runtimeconfig.json
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp3.0\Assignment_1.runtimeconfig.dev.json
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp3.0\Assignment_1.dll
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\bin\Debug\netcoreapp3.0\Assignment_1.pdb
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp3.0\Assignment_1.csprojAssemblyReference.cache
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp3.0\Assignment_1.AssemblyInfoInputs.cache
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp3.0\Assignment_1.AssemblyInfo.cs
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp3.0\Assignment_1.dll
+D:\Files\Documents\Code Repo\CIDM_4360_FA2019\Assignment_1\obj\Debug\netcoreapp3.0\Assignment_1.pdb
