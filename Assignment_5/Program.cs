@@ -1,6 +1,11 @@
-﻿using System;
+﻿// CIDM-4360-70
+    // Vanessa Valenzuela
+    // Matthew Webb
+    // 12/06/2019
 
-namespace HW_5
+using System;
+
+namespace Assignment_5
 {
     class Program
     {

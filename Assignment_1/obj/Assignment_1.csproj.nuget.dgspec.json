@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj": {}
+    "d:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj": {}
   },
   "projects": {
-    "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj": {
+    "d:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj",
+        "projectUniqueName": "d:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj",
         "projectName": "Assignment_1",
-        "projectPath": "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj",
+        "projectPath": "d:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\Assignment_1.csproj",
         "packagesPath": "C:\\Users\\ja3g3\\.nuget\\packages\\",
-        "outputPath": "D:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\obj\\",
+        "outputPath": "d:\\Files\\Documents\\Code Repo\\CIDM_4360_FA2019\\Assignment_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ja3g3\\AppData\\Roaming\\NuGet\\NuGet.Config"
